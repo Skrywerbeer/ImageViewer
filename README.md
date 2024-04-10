@@ -1,4 +1,3 @@
-
 # ImageViewer
 
 A simple and easliy styled web component for viewing images🖼.
